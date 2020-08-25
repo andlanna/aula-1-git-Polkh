@@ -1,0 +1,12 @@
+1)
+git init: serve para criar um novo repositorio
+git clone: clonar um repositorio remoto para um local
+git branch: visualizar todas as branchs existentes
+git checkout: sair de uma branch
+git fetch: baixa os commits sem afetar o codigo local
+git pull: baixa os commits e executa as novas mudanças, afetando o codigo local
+git add: adiciona o commit para a staging area
+git commit: "fotografa" o codigo, criando um commit
+git push: leva as alteraçoes feitas no repositorio local para o repositorio remoto
+2)
+git fetch pega a informaçao remota sem alterar o codigo local, ja o git push processa as alteraçoes
